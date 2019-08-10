@@ -1,4 +1,4 @@
-# postgres-init
+# postgres-init docker image
 Postgres 9.6 docker image with support for initialization SQL command
 
 # Usage
